@@ -1,6 +1,9 @@
 {
-    "objectscript.conn.version": 3,
-    "objectscript.conn.ns": "OSCRIPT",
-    "objectscript.conn.port": 52773,
-    "objectscript.conn.active": true
+    "objectscript.conn": {
+        "active": true,
+        "server": "taydevens001-002",
+        "ns": "OSCRIPT",
+        "port": 57773,
+        "username": "_SYSTEM"
+    }
 }
